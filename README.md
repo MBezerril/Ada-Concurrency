@@ -1,2 +1,2 @@
-# codingground
-Main Repository for Coding Ground
+# Ada semaphores
+Basic Ada Semaphores implemantation 
